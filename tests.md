@@ -227,3 +227,4 @@
 - Improve error handling — iteration 13 (2026)
 - Optimize performance — iteration 18 (2026)
 - Minor cleanup — iteration 20 (2026)
+- Document usage — iteration 21 (2026)
