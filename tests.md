@@ -239,3 +239,4 @@
 - Fix edge case — iteration 42 (2026)
 - Fix edge case — iteration 43 (2026)
 - Update docs — iteration 44 (2026)
+- Document usage — iteration 52 (2026)
