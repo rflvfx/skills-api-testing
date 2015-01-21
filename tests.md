@@ -1,1 +1,2 @@
 - Document usage — iteration 2 (2015)
+- Add example — iteration 6 (2015)
