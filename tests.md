@@ -3,3 +3,4 @@
 - Minor cleanup — iteration 11 (2015)
 - Add example — iteration 15 (2015)
 - Update docs — iteration 17 (2015)
+- Fix typo — iteration 19 (2015)
