@@ -12,3 +12,4 @@
 - Add helper — iteration 34 (2015)
 - Add example — iteration 37 (2015)
 - Add validation — iteration 40 (2015)
+- Polish code — iteration 47 (2015)
