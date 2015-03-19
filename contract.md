@@ -5,3 +5,4 @@
 - Postman tests (pm.test) + newman no CI
 - Tweak implementation — iteration 5 (2015)
 - Tweak implementation — iteration 10 (2015)
+- Update config — iteration 13 (2015)
