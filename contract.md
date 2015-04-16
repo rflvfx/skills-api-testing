@@ -11,3 +11,4 @@
 - Fix edge case — iteration 18 (2015)
 - Fix lint warnings — iteration 21 (2015)
 - Tweak implementation — iteration 22 (2015)
+- Fix typo — iteration 25 (2015)
