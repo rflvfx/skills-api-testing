@@ -16,3 +16,4 @@
 - Update docs — iteration 38 (2015)
 - Add tests — iteration 43 (2015)
 - Update config — iteration 51 (2015)
+- Fix edge case — iteration 52 (2015)
