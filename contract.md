@@ -8,3 +8,4 @@
 - Update config — iteration 13 (2015)
 - Fix lint warnings — iteration 14 (2015)
 - Update dependencies — iteration 16 (2015)
+- Fix edge case — iteration 18 (2015)
