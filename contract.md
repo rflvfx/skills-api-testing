@@ -10,3 +10,4 @@
 - Update dependencies — iteration 16 (2015)
 - Fix edge case — iteration 18 (2015)
 - Fix lint warnings — iteration 21 (2015)
+- Tweak implementation — iteration 22 (2015)
