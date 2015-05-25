@@ -18,3 +18,4 @@
 - Update config — iteration 51 (2015)
 - Fix edge case — iteration 52 (2015)
 - Add feature — iteration 54 (2015)
+- Update dependencies — iteration 55 (2015)
