@@ -6,3 +6,4 @@
 - Fix typo — iteration 19 (2015)
 - Add validation — iteration 20 (2015)
 - Add example — iteration 23 (2015)
+- Fix typo — iteration 24 (2015)
