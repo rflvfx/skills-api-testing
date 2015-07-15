@@ -14,3 +14,4 @@
 - Add validation — iteration 40 (2015)
 - Polish code — iteration 47 (2015)
 - Add tests — iteration 56 (2015)
+- Refactor module — iteration 58 (2015)
