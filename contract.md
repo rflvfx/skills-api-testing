@@ -14,3 +14,4 @@
 - Fix typo — iteration 25 (2015)
 - Refactor module — iteration 26 (2015)
 - Update docs — iteration 38 (2015)
+- Add tests — iteration 43 (2015)
