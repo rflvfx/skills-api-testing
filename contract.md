@@ -13,3 +13,4 @@
 - Tweak implementation — iteration 22 (2015)
 - Fix typo — iteration 25 (2015)
 - Refactor module — iteration 26 (2015)
+- Update docs — iteration 38 (2015)
