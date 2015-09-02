@@ -20,3 +20,4 @@
 - Add feature — iteration 54 (2015)
 - Update dependencies — iteration 55 (2015)
 - Add helper — iteration 57 (2015)
+- Fix typo — iteration 59 (2015)
