@@ -8,3 +8,4 @@
 - Add example — iteration 23 (2015)
 - Fix typo — iteration 24 (2015)
 - Polish code — iteration 27 (2015)
+- Extend coverage — iteration 29 (2015)
