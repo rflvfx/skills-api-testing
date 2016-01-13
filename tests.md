@@ -30,3 +30,4 @@
 - Tweak implementation — iteration 29 (2016)
 - Fix typo — iteration 32 (2016)
 - Tweak implementation — iteration 33 (2016)
+- Minor cleanup — iteration 34 (2016)
