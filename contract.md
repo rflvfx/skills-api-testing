@@ -27,3 +27,4 @@
 - Document usage — iteration 10 (2016)
 - Refactor module — iteration 15 (2016)
 - Add feature — iteration 16 (2016)
+- Update dependencies — iteration 18 (2016)
