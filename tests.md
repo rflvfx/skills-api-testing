@@ -36,3 +36,4 @@
 - Optimize performance — iteration 42 (2016)
 - Add validation — iteration 43 (2016)
 - Add example — iteration 48 (2016)
+- Fix lint warnings — iteration 54 (2016)
