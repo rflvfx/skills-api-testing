@@ -29,3 +29,4 @@
 - Add feature — iteration 16 (2016)
 - Update dependencies — iteration 18 (2016)
 - Improve error handling — iteration 20 (2016)
+- Update docs — iteration 23 (2016)
