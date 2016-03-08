@@ -26,3 +26,4 @@
 - Update docs — iteration 21 (2016)
 - Update dependencies — iteration 22 (2016)
 - Improve naming — iteration 24 (2016)
+- Improve error handling — iteration 28 (2016)
