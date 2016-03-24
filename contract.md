@@ -25,3 +25,4 @@
 - Fix typo — iteration 6 (2016)
 - Update docs — iteration 9 (2016)
 - Document usage — iteration 10 (2016)
+- Refactor module — iteration 15 (2016)
