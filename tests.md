@@ -17,3 +17,4 @@
 - Refactor module — iteration 58 (2015)
 - Minor cleanup — iteration 3 (2016)
 - Add validation — iteration 4 (2016)
+- Add validation — iteration 8 (2016)
