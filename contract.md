@@ -32,3 +32,4 @@
 - Update docs — iteration 23 (2016)
 - Add validation — iteration 25 (2016)
 - Minor cleanup — iteration 30 (2016)
+- Document usage — iteration 38 (2016)
