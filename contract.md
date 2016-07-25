@@ -37,3 +37,4 @@
 - Add validation — iteration 44 (2016)
 - Optimize performance — iteration 45 (2016)
 - Fix typo — iteration 47 (2016)
+- Add validation — iteration 52 (2016)
