@@ -20,3 +20,4 @@
 - Add validation — iteration 8 (2016)
 - Improve naming — iteration 11 (2016)
 - Add example — iteration 13 (2016)
+- Update config — iteration 14 (2016)
