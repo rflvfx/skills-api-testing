@@ -32,3 +32,4 @@
 - Tweak implementation — iteration 33 (2016)
 - Minor cleanup — iteration 34 (2016)
 - Minor cleanup — iteration 35 (2016)
+- Update docs — iteration 37 (2016)
