@@ -22,3 +22,4 @@
 - Add example — iteration 13 (2016)
 - Update config — iteration 14 (2016)
 - Tweak implementation — iteration 17 (2016)
+- Fix lint warnings — iteration 19 (2016)
