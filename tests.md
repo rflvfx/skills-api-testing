@@ -15,3 +15,4 @@
 - Polish code — iteration 47 (2015)
 - Add tests — iteration 56 (2015)
 - Refactor module — iteration 58 (2015)
+- Minor cleanup — iteration 3 (2016)
