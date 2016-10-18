@@ -34,3 +34,4 @@
 - Minor cleanup — iteration 30 (2016)
 - Document usage — iteration 38 (2016)
 - Optimize performance — iteration 39 (2016)
+- Add validation — iteration 44 (2016)
