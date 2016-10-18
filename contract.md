@@ -38,3 +38,4 @@
 - Optimize performance — iteration 45 (2016)
 - Fix typo — iteration 47 (2016)
 - Add validation — iteration 52 (2016)
+- Fix edge case — iteration 53 (2016)
