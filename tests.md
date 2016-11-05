@@ -25,3 +25,4 @@
 - Fix lint warnings — iteration 19 (2016)
 - Update docs — iteration 21 (2016)
 - Update dependencies — iteration 22 (2016)
+- Improve naming — iteration 24 (2016)
