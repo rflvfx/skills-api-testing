@@ -41,3 +41,4 @@
 - Fix edge case — iteration 53 (2016)
 - Improve naming — iteration 55 (2016)
 - Extend coverage — iteration 56 (2016)
+- Minor cleanup — iteration 58 (2016)
