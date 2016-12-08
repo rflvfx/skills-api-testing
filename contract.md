@@ -31,3 +31,4 @@
 - Improve error handling — iteration 20 (2016)
 - Update docs — iteration 23 (2016)
 - Add validation — iteration 25 (2016)
+- Minor cleanup — iteration 30 (2016)
