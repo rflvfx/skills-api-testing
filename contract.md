@@ -23,3 +23,4 @@
 - Fix typo — iteration 59 (2015)
 - Add tests — iteration 60 (2015)
 - Fix typo — iteration 6 (2016)
+- Update docs — iteration 9 (2016)
