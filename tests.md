@@ -52,3 +52,4 @@
 - Improve error handling — iteration 33 (2017)
 - Update config — iteration 35 (2017)
 - Refactor module — iteration 36 (2017)
+- Polish code — iteration 37 (2017)
