@@ -42,3 +42,4 @@
 - Fix lint warnings — iteration 4 (2017)
 - Improve naming — iteration 15 (2017)
 - Add feature — iteration 16 (2017)
+- Improve error handling — iteration 17 (2017)
