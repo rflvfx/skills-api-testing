@@ -38,3 +38,4 @@
 - Add example — iteration 48 (2016)
 - Fix lint warnings — iteration 54 (2016)
 - Update dependencies — iteration 57 (2016)
+- Fix edge case — iteration 1 (2017)
