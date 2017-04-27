@@ -54,3 +54,4 @@
 - Extend coverage — iteration 14 (2017)
 - Polish code — iteration 21 (2017)
 - Update dependencies — iteration 27 (2017)
+- Add tests — iteration 31 (2017)
