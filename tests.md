@@ -46,3 +46,4 @@
 - Improve error handling — iteration 18 (2017)
 - Add example — iteration 19 (2017)
 - Refactor module — iteration 22 (2017)
+- Add feature — iteration 23 (2017)
