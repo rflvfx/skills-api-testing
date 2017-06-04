@@ -53,3 +53,4 @@
 - Update config — iteration 35 (2017)
 - Refactor module — iteration 36 (2017)
 - Polish code — iteration 37 (2017)
+- Add tests — iteration 38 (2017)
