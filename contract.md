@@ -58,3 +58,4 @@
 - Update docs — iteration 43 (2017)
 - Add example — iteration 45 (2017)
 - Document usage — iteration 46 (2017)
+- Optimize performance — iteration 47 (2017)
