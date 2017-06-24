@@ -46,3 +46,4 @@
 - Update docs — iteration 2 (2017)
 - Update dependencies — iteration 3 (2017)
 - Fix edge case — iteration 6 (2017)
+- Document usage — iteration 8 (2017)
