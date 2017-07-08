@@ -54,3 +54,4 @@
 - Refactor module — iteration 36 (2017)
 - Polish code — iteration 37 (2017)
 - Add tests — iteration 38 (2017)
+- Fix edge case — iteration 39 (2017)
