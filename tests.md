@@ -51,3 +51,4 @@
 - Refactor module — iteration 32 (2017)
 - Improve error handling — iteration 33 (2017)
 - Update config — iteration 35 (2017)
+- Refactor module — iteration 36 (2017)
