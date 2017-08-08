@@ -51,3 +51,4 @@
 - Update docs — iteration 10 (2017)
 - Minor cleanup — iteration 11 (2017)
 - Add feature — iteration 12 (2017)
+- Extend coverage — iteration 14 (2017)
