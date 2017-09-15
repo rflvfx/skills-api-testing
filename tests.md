@@ -60,3 +60,4 @@
 - Refactor module — iteration 53 (2017)
 - Extend coverage — iteration 54 (2017)
 - Improve error handling — iteration 56 (2017)
+- Add feature — iteration 58 (2017)
