@@ -52,3 +52,4 @@
 - Minor cleanup — iteration 11 (2017)
 - Add feature — iteration 12 (2017)
 - Extend coverage — iteration 14 (2017)
+- Polish code — iteration 21 (2017)
