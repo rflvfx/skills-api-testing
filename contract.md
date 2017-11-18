@@ -62,3 +62,4 @@
 - Fix typo — iteration 48 (2017)
 - Tweak implementation — iteration 49 (2017)
 - Add feature — iteration 51 (2017)
+- Update config — iteration 57 (2017)
