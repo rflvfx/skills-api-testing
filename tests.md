@@ -40,3 +40,4 @@
 - Update dependencies — iteration 57 (2016)
 - Fix edge case — iteration 1 (2017)
 - Fix lint warnings — iteration 4 (2017)
+- Improve naming — iteration 15 (2017)
