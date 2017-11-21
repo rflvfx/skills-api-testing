@@ -43,3 +43,4 @@
 - Extend coverage — iteration 56 (2016)
 - Minor cleanup — iteration 58 (2016)
 - Update dependencies — iteration 59 (2016)
+- Update docs — iteration 2 (2017)
