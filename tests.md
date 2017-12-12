@@ -58,3 +58,4 @@
 - Add example — iteration 42 (2017)
 - Fix edge case — iteration 50 (2017)
 - Refactor module — iteration 53 (2017)
+- Extend coverage — iteration 54 (2017)
