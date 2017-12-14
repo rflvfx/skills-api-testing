@@ -61,3 +61,4 @@
 - Extend coverage — iteration 54 (2017)
 - Improve error handling — iteration 56 (2017)
 - Add feature — iteration 58 (2017)
+- Document usage — iteration 59 (2017)
