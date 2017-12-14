@@ -48,3 +48,4 @@
 - Fix edge case — iteration 6 (2017)
 - Document usage — iteration 8 (2017)
 - Add feature — iteration 9 (2017)
+- Update docs — iteration 10 (2017)
