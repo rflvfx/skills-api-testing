@@ -59,3 +59,4 @@
 - Fix edge case — iteration 50 (2017)
 - Refactor module — iteration 53 (2017)
 - Extend coverage — iteration 54 (2017)
+- Improve error handling — iteration 56 (2017)
