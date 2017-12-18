@@ -45,3 +45,4 @@
 - Update dependencies — iteration 59 (2016)
 - Update docs — iteration 2 (2017)
 - Update dependencies — iteration 3 (2017)
+- Fix edge case — iteration 6 (2017)
