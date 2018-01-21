@@ -73,3 +73,4 @@
 - Update docs — iteration 20 (2018)
 - Add example — iteration 22 (2018)
 - Fix typo — iteration 25 (2018)
+- Update docs — iteration 26 (2018)
