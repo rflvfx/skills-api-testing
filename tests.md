@@ -68,3 +68,4 @@
 - Fix edge case — iteration 7 (2018)
 - Add helper — iteration 9 (2018)
 - Improve error handling — iteration 10 (2018)
+- Polish code — iteration 13 (2018)
