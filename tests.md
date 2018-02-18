@@ -69,3 +69,4 @@
 - Add helper — iteration 9 (2018)
 - Improve error handling — iteration 10 (2018)
 - Polish code — iteration 13 (2018)
+- Document usage — iteration 18 (2018)
