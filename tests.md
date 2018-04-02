@@ -82,3 +82,4 @@
 - Add feature — iteration 40 (2018)
 - Minor cleanup — iteration 41 (2018)
 - Update dependencies — iteration 43 (2018)
+- Update docs — iteration 44 (2018)
