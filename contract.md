@@ -78,3 +78,4 @@
 - Add helper — iteration 49 (2018)
 - Add tests — iteration 50 (2018)
 - Add feature — iteration 51 (2018)
+- Improve error handling — iteration 55 (2018)
