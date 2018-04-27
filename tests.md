@@ -70,3 +70,4 @@
 - Improve error handling — iteration 10 (2018)
 - Polish code — iteration 13 (2018)
 - Document usage — iteration 18 (2018)
+- Update docs — iteration 20 (2018)
