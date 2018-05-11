@@ -63,3 +63,4 @@
 - Add feature — iteration 58 (2017)
 - Document usage — iteration 59 (2017)
 - Add feature — iteration 1 (2018)
+- Document usage — iteration 3 (2018)
