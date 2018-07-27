@@ -86,3 +86,4 @@
 - Add feature — iteration 47 (2018)
 - Fix edge case — iteration 48 (2018)
 - Update dependencies — iteration 52 (2018)
+- Fix edge case — iteration 54 (2018)
