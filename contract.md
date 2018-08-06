@@ -65,3 +65,4 @@
 - Update config — iteration 57 (2017)
 - Improve error handling — iteration 60 (2017)
 - Improve naming — iteration 2 (2018)
+- Fix lint warnings — iteration 6 (2018)
