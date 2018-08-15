@@ -67,3 +67,4 @@
 - Improve naming — iteration 2 (2018)
 - Fix lint warnings — iteration 6 (2018)
 - Fix edge case — iteration 8 (2018)
+- Fix edge case — iteration 11 (2018)
