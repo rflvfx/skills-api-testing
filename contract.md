@@ -70,3 +70,4 @@
 - Fix edge case — iteration 11 (2018)
 - Improve naming — iteration 14 (2018)
 - Minor cleanup — iteration 15 (2018)
+- Extend coverage — iteration 21 (2018)
