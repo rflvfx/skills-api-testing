@@ -80,3 +80,4 @@
 - Add tests — iteration 33 (2018)
 - Fix lint warnings — iteration 38 (2018)
 - Add feature — iteration 40 (2018)
+- Minor cleanup — iteration 41 (2018)
