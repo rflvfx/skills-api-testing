@@ -80,3 +80,4 @@
 - Add feature — iteration 51 (2018)
 - Improve error handling — iteration 55 (2018)
 - Fix lint warnings — iteration 56 (2018)
+- Fix edge case — iteration 57 (2018)
