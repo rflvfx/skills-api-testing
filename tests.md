@@ -71,3 +71,4 @@
 - Polish code — iteration 13 (2018)
 - Document usage — iteration 18 (2018)
 - Update docs — iteration 20 (2018)
+- Add example — iteration 22 (2018)
