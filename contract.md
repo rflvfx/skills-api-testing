@@ -100,3 +100,4 @@
 - Minor cleanup — iteration 44 (2019)
 - Add helper — iteration 48 (2019)
 - Document usage — iteration 49 (2019)
+- Update dependencies — iteration 51 (2019)
