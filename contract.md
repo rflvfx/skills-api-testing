@@ -101,3 +101,4 @@
 - Add helper — iteration 48 (2019)
 - Document usage — iteration 49 (2019)
 - Update dependencies — iteration 51 (2019)
+- Improve naming — iteration 52 (2019)
