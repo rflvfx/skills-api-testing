@@ -95,3 +95,4 @@
 - Update dependencies — iteration 36 (2019)
 - Fix lint warnings — iteration 37 (2019)
 - Document usage — iteration 39 (2019)
+- Fix typo — iteration 42 (2019)
