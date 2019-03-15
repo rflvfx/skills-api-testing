@@ -97,3 +97,4 @@
 - Document usage — iteration 39 (2019)
 - Fix typo — iteration 42 (2019)
 - Refactor module — iteration 43 (2019)
+- Minor cleanup — iteration 44 (2019)
