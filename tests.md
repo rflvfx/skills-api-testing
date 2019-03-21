@@ -94,3 +94,4 @@
 - Add validation — iteration 12 (2019)
 - Fix edge case — iteration 20 (2019)
 - Refactor module — iteration 23 (2019)
+- Improve error handling — iteration 24 (2019)
