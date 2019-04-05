@@ -89,3 +89,4 @@
 - Fix edge case — iteration 54 (2018)
 - Fix typo — iteration 59 (2018)
 - Update docs — iteration 4 (2019)
+- Fix typo — iteration 5 (2019)
