@@ -95,3 +95,4 @@
 - Fix edge case — iteration 20 (2019)
 - Refactor module — iteration 23 (2019)
 - Improve error handling — iteration 24 (2019)
+- Improve naming — iteration 28 (2019)
