@@ -99,3 +99,4 @@
 - Refactor module — iteration 43 (2019)
 - Minor cleanup — iteration 44 (2019)
 - Add helper — iteration 48 (2019)
+- Document usage — iteration 49 (2019)
