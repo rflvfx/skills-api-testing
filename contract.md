@@ -88,3 +88,4 @@
 - Update dependencies — iteration 10 (2019)
 - Extend coverage — iteration 11 (2019)
 - Document usage — iteration 14 (2019)
+- Add helper — iteration 16 (2019)
