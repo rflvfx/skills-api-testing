@@ -85,3 +85,4 @@
 - Optimize performance — iteration 1 (2019)
 - Add feature — iteration 2 (2019)
 - Tweak implementation — iteration 8 (2019)
+- Update dependencies — iteration 10 (2019)
