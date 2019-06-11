@@ -97,3 +97,4 @@
 - Improve error handling — iteration 24 (2019)
 - Improve naming — iteration 28 (2019)
 - Update docs — iteration 31 (2019)
+- Fix edge case — iteration 32 (2019)
