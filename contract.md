@@ -90,3 +90,4 @@
 - Document usage — iteration 14 (2019)
 - Add helper — iteration 16 (2019)
 - Add tests — iteration 19 (2019)
+- Optimize performance — iteration 22 (2019)
