@@ -88,3 +88,4 @@
 - Update dependencies — iteration 52 (2018)
 - Fix edge case — iteration 54 (2018)
 - Fix typo — iteration 59 (2018)
+- Update docs — iteration 4 (2019)
