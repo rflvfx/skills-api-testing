@@ -118,3 +118,4 @@
 - Fix edge case — iteration 31 (2020)
 - Tweak implementation — iteration 32 (2020)
 - Add helper — iteration 34 (2020)
+- Minor cleanup — iteration 39 (2020)
