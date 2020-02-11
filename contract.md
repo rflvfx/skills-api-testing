@@ -106,3 +106,4 @@
 - Update dependencies — iteration 56 (2019)
 - Add tests — iteration 57 (2019)
 - Document usage — iteration 60 (2019)
+- Fix typo — iteration 6 (2020)
