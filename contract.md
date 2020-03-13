@@ -113,3 +113,4 @@
 - Optimize performance — iteration 15 (2020)
 - Extend coverage — iteration 17 (2020)
 - Add example — iteration 22 (2020)
+- Extend coverage — iteration 24 (2020)
