@@ -110,3 +110,4 @@
 - Improve naming — iteration 16 (2020)
 - Fix lint warnings — iteration 18 (2020)
 - Update dependencies — iteration 19 (2020)
+- Tweak implementation — iteration 20 (2020)
