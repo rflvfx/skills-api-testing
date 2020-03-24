@@ -118,3 +118,4 @@
 - Add tests — iteration 43 (2020)
 - Improve naming — iteration 46 (2020)
 - Update dependencies — iteration 48 (2020)
+- Improve error handling — iteration 50 (2020)
