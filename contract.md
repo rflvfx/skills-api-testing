@@ -107,3 +107,4 @@
 - Add tests — iteration 57 (2019)
 - Document usage — iteration 60 (2019)
 - Fix typo — iteration 6 (2020)
+- Minor cleanup — iteration 7 (2020)
