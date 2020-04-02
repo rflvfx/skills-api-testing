@@ -121,3 +121,4 @@
 - Improve error handling — iteration 50 (2020)
 - Add feature — iteration 53 (2020)
 - Add helper — iteration 54 (2020)
+- Update docs — iteration 56 (2020)
