@@ -112,3 +112,4 @@
 - Add tests — iteration 12 (2020)
 - Optimize performance — iteration 15 (2020)
 - Extend coverage — iteration 17 (2020)
+- Add example — iteration 22 (2020)
