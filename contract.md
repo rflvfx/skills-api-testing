@@ -123,3 +123,4 @@
 - Optimize performance — iteration 42 (2020)
 - Improve error handling — iteration 44 (2020)
 - Update dependencies — iteration 47 (2020)
+- Fix edge case — iteration 49 (2020)
