@@ -104,3 +104,4 @@
 - Add helper — iteration 54 (2019)
 - Fix typo — iteration 55 (2019)
 - Minor cleanup — iteration 4 (2020)
+- Update docs — iteration 8 (2020)
