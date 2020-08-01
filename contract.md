@@ -110,3 +110,4 @@
 - Minor cleanup — iteration 7 (2020)
 - Add helper — iteration 10 (2020)
 - Add tests — iteration 12 (2020)
+- Optimize performance — iteration 15 (2020)
