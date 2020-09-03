@@ -108,3 +108,4 @@
 - Improve naming — iteration 11 (2020)
 - Update docs — iteration 13 (2020)
 - Improve naming — iteration 16 (2020)
+- Fix lint warnings — iteration 18 (2020)
