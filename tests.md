@@ -113,3 +113,4 @@
 - Tweak implementation — iteration 20 (2020)
 - Add tests — iteration 25 (2020)
 - Improve naming — iteration 26 (2020)
+- Fix lint warnings — iteration 27 (2020)
