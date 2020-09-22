@@ -120,3 +120,4 @@
 - Add helper — iteration 34 (2020)
 - Minor cleanup — iteration 39 (2020)
 - Update docs — iteration 41 (2020)
+- Optimize performance — iteration 42 (2020)
