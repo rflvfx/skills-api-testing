@@ -119,3 +119,4 @@
 - Tweak implementation — iteration 32 (2020)
 - Add helper — iteration 34 (2020)
 - Minor cleanup — iteration 39 (2020)
+- Update docs — iteration 41 (2020)
