@@ -103,3 +103,4 @@
 - Fix typo — iteration 50 (2019)
 - Add helper — iteration 54 (2019)
 - Fix typo — iteration 55 (2019)
+- Minor cleanup — iteration 4 (2020)
