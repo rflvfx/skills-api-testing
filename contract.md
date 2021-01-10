@@ -133,3 +133,4 @@
 - Polish code — iteration 13 (2021)
 - Update docs — iteration 16 (2021)
 - Add feature — iteration 17 (2021)
+- Document usage — iteration 22 (2021)
