@@ -122,3 +122,4 @@
 - Add feature — iteration 53 (2020)
 - Add helper — iteration 54 (2020)
 - Update docs — iteration 56 (2020)
+- Update config — iteration 1 (2021)
