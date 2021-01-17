@@ -134,3 +134,4 @@
 - Polish code — iteration 26 (2021)
 - Add helper — iteration 28 (2021)
 - Add tests — iteration 30 (2021)
+- Minor cleanup — iteration 31 (2021)
