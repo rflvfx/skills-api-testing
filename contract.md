@@ -127,3 +127,4 @@
 - Extend coverage — iteration 52 (2020)
 - Extend coverage — iteration 55 (2020)
 - Optimize performance — iteration 3 (2021)
+- Refactor module — iteration 6 (2021)
