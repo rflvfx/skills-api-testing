@@ -123,3 +123,4 @@
 - Add helper — iteration 54 (2020)
 - Update docs — iteration 56 (2020)
 - Update config — iteration 1 (2021)
+- Improve naming — iteration 4 (2021)
