@@ -137,3 +137,4 @@
 - Minor cleanup — iteration 31 (2021)
 - Polish code — iteration 33 (2021)
 - Optimize performance — iteration 37 (2021)
+- Update docs — iteration 38 (2021)
