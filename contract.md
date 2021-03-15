@@ -136,3 +136,4 @@
 - Document usage — iteration 22 (2021)
 - Polish code — iteration 32 (2021)
 - Extend coverage — iteration 36 (2021)
+- Add feature — iteration 39 (2021)
