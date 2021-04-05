@@ -140,3 +140,4 @@
 - Fix typo — iteration 42 (2021)
 - Improve error handling — iteration 43 (2021)
 - Fix typo — iteration 47 (2021)
+- Update docs — iteration 50 (2021)
