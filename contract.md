@@ -131,3 +131,4 @@
 - Add validation — iteration 11 (2021)
 - Fix edge case — iteration 12 (2021)
 - Polish code — iteration 13 (2021)
+- Update docs — iteration 16 (2021)
