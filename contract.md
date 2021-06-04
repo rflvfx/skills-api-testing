@@ -137,3 +137,4 @@
 - Polish code — iteration 32 (2021)
 - Extend coverage — iteration 36 (2021)
 - Add feature — iteration 39 (2021)
+- Fix typo — iteration 42 (2021)
