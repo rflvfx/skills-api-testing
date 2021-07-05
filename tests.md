@@ -147,3 +147,4 @@
 - Update docs — iteration 53 (2021)
 - Update docs — iteration 56 (2021)
 - Update docs — iteration 57 (2021)
+- Polish code — iteration 60 (2021)
