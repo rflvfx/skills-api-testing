@@ -129,3 +129,4 @@
 - Extend coverage — iteration 18 (2021)
 - Add example — iteration 21 (2021)
 - Improve error handling — iteration 23 (2021)
+- Tweak implementation — iteration 24 (2021)
