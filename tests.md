@@ -124,3 +124,4 @@
 - Update docs — iteration 56 (2020)
 - Update config — iteration 1 (2021)
 - Improve naming — iteration 4 (2021)
+- Optimize performance — iteration 8 (2021)
