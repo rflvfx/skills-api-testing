@@ -131,3 +131,4 @@
 - Improve error handling — iteration 23 (2021)
 - Tweak implementation — iteration 24 (2021)
 - Fix typo — iteration 25 (2021)
+- Polish code — iteration 26 (2021)
