@@ -134,3 +134,4 @@
 - Update docs — iteration 16 (2021)
 - Add feature — iteration 17 (2021)
 - Document usage — iteration 22 (2021)
+- Polish code — iteration 32 (2021)
