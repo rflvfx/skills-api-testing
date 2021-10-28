@@ -138,3 +138,4 @@
 - Polish code — iteration 33 (2021)
 - Optimize performance — iteration 37 (2021)
 - Update docs — iteration 38 (2021)
+- Add validation — iteration 41 (2021)
