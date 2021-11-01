@@ -130,3 +130,4 @@
 - Add example — iteration 21 (2021)
 - Improve error handling — iteration 23 (2021)
 - Tweak implementation — iteration 24 (2021)
+- Fix typo — iteration 25 (2021)
