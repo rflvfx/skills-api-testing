@@ -138,3 +138,4 @@
 - Extend coverage — iteration 36 (2021)
 - Add feature — iteration 39 (2021)
 - Fix typo — iteration 42 (2021)
+- Improve error handling — iteration 43 (2021)
