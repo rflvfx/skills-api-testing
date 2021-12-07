@@ -144,3 +144,4 @@
 - Tweak implementation — iteration 46 (2021)
 - Minor cleanup — iteration 48 (2021)
 - Document usage — iteration 49 (2021)
+- Update docs — iteration 53 (2021)
