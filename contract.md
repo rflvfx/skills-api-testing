@@ -154,3 +154,4 @@
 - Add feature — iteration 19 (2022)
 - Update dependencies — iteration 21 (2022)
 - Document usage — iteration 30 (2022)
+- Fix lint warnings — iteration 31 (2022)
