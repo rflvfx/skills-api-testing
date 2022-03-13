@@ -155,3 +155,4 @@
 - Update dependencies — iteration 21 (2022)
 - Document usage — iteration 30 (2022)
 - Fix lint warnings — iteration 31 (2022)
+- Fix edge case — iteration 44 (2022)
