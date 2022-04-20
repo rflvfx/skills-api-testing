@@ -154,3 +154,4 @@
 - Improve error handling — iteration 18 (2022)
 - Document usage — iteration 22 (2022)
 - Extend coverage — iteration 26 (2022)
+- Tweak implementation — iteration 27 (2022)
