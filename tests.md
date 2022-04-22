@@ -155,3 +155,4 @@
 - Document usage — iteration 22 (2022)
 - Extend coverage — iteration 26 (2022)
 - Tweak implementation — iteration 27 (2022)
+- Optimize performance — iteration 32 (2022)
