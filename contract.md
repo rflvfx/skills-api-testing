@@ -148,3 +148,4 @@
 - Extend coverage — iteration 4 (2022)
 - Refactor module — iteration 6 (2022)
 - Tweak implementation — iteration 7 (2022)
+- Fix typo — iteration 15 (2022)
