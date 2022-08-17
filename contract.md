@@ -153,3 +153,4 @@
 - Add example — iteration 17 (2022)
 - Add feature — iteration 19 (2022)
 - Update dependencies — iteration 21 (2022)
+- Document usage — iteration 30 (2022)
