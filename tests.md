@@ -153,3 +153,4 @@
 - Update config — iteration 13 (2022)
 - Improve error handling — iteration 18 (2022)
 - Document usage — iteration 22 (2022)
+- Extend coverage — iteration 26 (2022)
