@@ -160,3 +160,4 @@
 - Polish code — iteration 34 (2022)
 - Improve error handling — iteration 35 (2022)
 - Fix typo — iteration 36 (2022)
+- Improve naming — iteration 39 (2022)
