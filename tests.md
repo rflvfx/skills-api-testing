@@ -151,3 +151,4 @@
 - Add validation — iteration 9 (2022)
 - Fix lint warnings — iteration 11 (2022)
 - Update config — iteration 13 (2022)
+- Improve error handling — iteration 18 (2022)
