@@ -163,3 +163,4 @@
 - Improve naming — iteration 39 (2022)
 - Document usage — iteration 40 (2022)
 - Fix typo — iteration 41 (2022)
+- Improve error handling — iteration 42 (2022)
