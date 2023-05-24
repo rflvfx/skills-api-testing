@@ -174,3 +174,4 @@
 - Add feature — iteration 19 (2023)
 - Polish code — iteration 25 (2023)
 - Add helper — iteration 28 (2023)
+- Improve error handling — iteration 29 (2023)
