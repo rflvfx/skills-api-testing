@@ -166,3 +166,4 @@
 - Tweak implementation — iteration 13 (2023)
 - Add tests — iteration 17 (2023)
 - Extend coverage — iteration 18 (2023)
+- Improve error handling — iteration 20 (2023)
