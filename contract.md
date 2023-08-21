@@ -165,3 +165,4 @@
 - Improve naming — iteration 4 (2023)
 - Tweak implementation — iteration 13 (2023)
 - Add tests — iteration 17 (2023)
+- Extend coverage — iteration 18 (2023)
