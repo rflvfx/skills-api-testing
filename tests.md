@@ -192,3 +192,4 @@
 - Improve error handling — iteration 21 (2024)
 - Tweak implementation — iteration 22 (2024)
 - Tweak implementation — iteration 23 (2024)
+- Extend coverage — iteration 24 (2024)
