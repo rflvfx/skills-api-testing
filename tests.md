@@ -193,3 +193,4 @@
 - Tweak implementation — iteration 22 (2024)
 - Tweak implementation — iteration 23 (2024)
 - Extend coverage — iteration 24 (2024)
+- Fix lint warnings — iteration 27 (2024)
