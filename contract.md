@@ -188,3 +188,4 @@
 - Update dependencies — iteration 13 (2024)
 - Polish code — iteration 14 (2024)
 - Document usage — iteration 18 (2024)
+- Optimize performance — iteration 20 (2024)
