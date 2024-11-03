@@ -189,3 +189,4 @@
 - Refactor module — iteration 9 (2024)
 - Add helper — iteration 16 (2024)
 - Add tests — iteration 17 (2024)
+- Improve error handling — iteration 21 (2024)
