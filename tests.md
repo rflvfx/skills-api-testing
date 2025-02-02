@@ -215,3 +215,4 @@
 - Add feature — iteration 26 (2025)
 - Update docs — iteration 29 (2025)
 - Add validation — iteration 40 (2025)
+- Document usage — iteration 42 (2025)
