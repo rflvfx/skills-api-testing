@@ -211,3 +211,4 @@
 - Minor cleanup — iteration 4 (2025)
 - Add example — iteration 7 (2025)
 - Add helper — iteration 8 (2025)
+- Extend coverage — iteration 19 (2025)
