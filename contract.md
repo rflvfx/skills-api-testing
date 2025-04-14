@@ -210,3 +210,4 @@
 - Polish code — iteration 2 (2025)
 - Minor cleanup — iteration 4 (2025)
 - Add example — iteration 7 (2025)
+- Add helper — iteration 8 (2025)
