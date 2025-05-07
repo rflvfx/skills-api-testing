@@ -203,3 +203,4 @@
 - Add example — iteration 44 (2024)
 - Fix typo — iteration 45 (2024)
 - Tweak implementation — iteration 3 (2025)
+- Add tests — iteration 6 (2025)
