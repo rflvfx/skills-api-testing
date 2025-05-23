@@ -206,3 +206,4 @@
 - Add tests — iteration 6 (2025)
 - Extend coverage — iteration 9 (2025)
 - Add feature — iteration 10 (2025)
+- Improve error handling — iteration 13 (2025)
