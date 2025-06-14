@@ -205,3 +205,4 @@
 - Tweak implementation — iteration 3 (2025)
 - Add tests — iteration 6 (2025)
 - Extend coverage — iteration 9 (2025)
+- Add feature — iteration 10 (2025)
