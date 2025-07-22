@@ -212,3 +212,4 @@
 - Add helper — iteration 20 (2025)
 - Improve error handling — iteration 21 (2025)
 - Improve naming — iteration 25 (2025)
+- Add feature — iteration 26 (2025)
