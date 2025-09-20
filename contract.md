@@ -220,3 +220,4 @@
 - Minor cleanup — iteration 33 (2025)
 - Update dependencies — iteration 34 (2025)
 - Fix edge case — iteration 37 (2025)
+- Add tests — iteration 38 (2025)
