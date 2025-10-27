@@ -213,3 +213,4 @@
 - Improve error handling — iteration 21 (2025)
 - Improve naming — iteration 25 (2025)
 - Add feature — iteration 26 (2025)
+- Update docs — iteration 29 (2025)
