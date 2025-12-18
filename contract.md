@@ -230,3 +230,4 @@
 - Add validation — iteration 53 (2025)
 - Improve naming — iteration 55 (2025)
 - Update config — iteration 56 (2025)
+- Document usage — iteration 59 (2025)
