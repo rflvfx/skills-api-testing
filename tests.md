@@ -234,3 +234,4 @@
 - Add helper — iteration 30 (2026)
 - Extend coverage — iteration 34 (2026)
 - Minor cleanup — iteration 36 (2026)
+- Improve error handling — iteration 40 (2026)
