@@ -242,3 +242,4 @@
 - Fix typo — iteration 32 (2026)
 - Optimize performance — iteration 33 (2026)
 - Add feature — iteration 35 (2026)
+- Add helper — iteration 38 (2026)
