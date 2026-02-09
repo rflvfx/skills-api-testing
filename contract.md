@@ -231,3 +231,4 @@
 - Improve naming — iteration 55 (2025)
 - Update config — iteration 56 (2025)
 - Document usage — iteration 59 (2025)
+- Add example — iteration 4 (2026)
