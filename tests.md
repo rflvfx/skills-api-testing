@@ -231,3 +231,4 @@
 - Update dependencies — iteration 22 (2026)
 - Fix edge case — iteration 23 (2026)
 - Improve naming — iteration 29 (2026)
+- Add helper — iteration 30 (2026)
