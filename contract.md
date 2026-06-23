@@ -234,3 +234,4 @@
 - Add example — iteration 4 (2026)
 - Improve naming — iteration 8 (2026)
 - Fix edge case — iteration 14 (2026)
+- Minor cleanup — iteration 16 (2026)
