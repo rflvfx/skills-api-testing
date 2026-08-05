@@ -235,3 +235,4 @@
 - Extend coverage — iteration 34 (2026)
 - Minor cleanup — iteration 36 (2026)
 - Improve error handling — iteration 40 (2026)
+- Add feature — iteration 41 (2026)
