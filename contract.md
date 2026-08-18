@@ -238,3 +238,4 @@
 - Add example — iteration 19 (2026)
 - Minor cleanup — iteration 26 (2026)
 - Polish code — iteration 27 (2026)
+- Update dependencies — iteration 28 (2026)
