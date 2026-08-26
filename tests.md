@@ -238,3 +238,4 @@
 - Add feature — iteration 41 (2026)
 - Fix edge case — iteration 42 (2026)
 - Fix edge case — iteration 43 (2026)
+- Update docs — iteration 44 (2026)
