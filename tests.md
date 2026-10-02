@@ -232,3 +232,4 @@
 - Fix edge case — iteration 23 (2026)
 - Improve naming — iteration 29 (2026)
 - Add helper — iteration 30 (2026)
+- Extend coverage — iteration 34 (2026)
