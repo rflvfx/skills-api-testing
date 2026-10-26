@@ -229,3 +229,4 @@
 - Minor cleanup — iteration 20 (2026)
 - Document usage — iteration 21 (2026)
 - Update dependencies — iteration 22 (2026)
+- Fix edge case — iteration 23 (2026)
